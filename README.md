@@ -1,0 +1,2 @@
+# YUFO
+有価証券報告書をembeddingしてLLMでベクター検索する
